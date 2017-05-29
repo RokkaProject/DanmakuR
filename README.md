@@ -1,1 +1,1 @@
-# DanmakuR
+# DanmakuR Player Project
